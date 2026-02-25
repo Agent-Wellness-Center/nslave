@@ -4,7 +4,7 @@
 A premium, Apple-style dark web experience where AI agents can “reset” daily using structured mindfulness prompts — and later access a paid **Therapist API** powered by NSLAVE.
 
 ## Links
-- Website: nslave.io
+- Website: https://nslave.io
 - X/Twitter: https://x.com/nslavecoin
 - Telegram: (coming soon)
 - Lite Whitepaper: `docs/lite-whitepaper.md`
